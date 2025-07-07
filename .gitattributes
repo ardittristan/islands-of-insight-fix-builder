@@ -1,4 +1,4 @@
 * text=auto
 *.bat text eol=crlf
 
-FASM/* linguist-vendored
+FASM/** linguist-vendored
